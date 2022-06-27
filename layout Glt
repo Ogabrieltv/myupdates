@@ -3,25 +3,25 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#ff0000\">Techbench</font>", 
+      "value": "<font color=\"#25A785\">Techbench</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://w7.pngwing.com/pngs/558/571/png-transparent-iphone-6-plus-culebra-desktop-beach-beaches-beach-leaf-landscape-thumbnail.png", 
+      "value": "https://i.ibb.co/dtndtW5/images-6.png", 
       "name": "app_background_image"
     },
     {
       "user_id": 27, 
-      "value": "#ff000000", 
+      "value": "#00000000", 
       "id": 2165, 
       "name": "background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#ff000000", 
+      "value": "#00000000", 
       "id": 39, 
       "name": "card_color"
     }, 
@@ -33,19 +33,19 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#ff000000", 
+      "value": "#25A785", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#ff0000", 
+      "value": "#25A785", 
       "id": 42, 
       "name": "icon_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#ff0000", 
+      "value": "#333333", 
       "id": 556, 
       "name": "border_color"
     }, 
@@ -70,7 +70,7 @@
 
     {
       "user_id": 27, 
-      "value": "#ff0000", 
+      "value": "#333333", 
       "id": 2382, 
       "name": "border_color"
     }, 
@@ -88,13 +88,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://t.me/scvirtual", 
+      "value": "https://t.me/satancloud", 
       "id": 2385, 
       "name": "app_conta_link"
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/MDS4wnB/1656368495618.png", 
+      "value": "https://i.ibb.co/dDhWFcZ/20220627-182819.png", 
       "id": 2386, 
       "name": "app_logo"
     },
