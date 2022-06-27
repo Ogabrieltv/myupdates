@@ -35,11 +35,11 @@
         "id": 4, 
         "proxy_port": 80, 
         "category": {
-          "name": "Operadoras", 
+          "name": "Operadora Vivo", 
           "id": 2, 
           "status": "ACTIVE", 
-          "sort_order": 2, 
-          "user_id": 2, 
+          "sort_order": 1, 
+          "user_id": 1, 
           "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
           "description": ""
         }
@@ -55,7 +55,7 @@
         "user_id": 1, 
         "password": "fierSag01", 
         "udp_port": "7300", 
-        "category_id": 1, 
+        "category_id": 3, 
         "v2ray_uuid": "", 
         "primary_dns_server": "8.8.8.8", 
         "payload": "GET wss://4.icanhazip.com HTTP/1.1[crlf]Host: servbr1.sagicorpyus.xyz[crlf]Upgrade: websockt[crlf][crlf]", 
@@ -70,10 +70,10 @@
         "id": 5, 
         "proxy_port": 443, 
         "category": {
-          "name": "SSH", 
+          "name": "operadora Tim", 
           "id": 1, 
           "status": "ACTIVE", 
-          "sort_order": 1, 
+          "sort_order": 2, 
           "user_id": 2, 
           "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
           "description": ""
@@ -105,10 +105,10 @@
         "id": 7, 
         "proxy_port": 443, 
         "category": {
-          "name": "Operadoras", 
+          "name": "Operadora Claro", 
           "id": 210, 
           "status": "ACTIVE", 
-          "sort_order": 1, 
+          "sort_order": 3, 
           "user_id": 2, 
           "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
           "description": ""
