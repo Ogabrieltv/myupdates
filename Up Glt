@@ -67,14 +67,14 @@
         "config_openvpn": "", 
         "proxy_hostname": "4.icanhazip.com", 
         "sort_order": 3, 
-        "id": 5, 
+        "id": 3, 
         "proxy_port": 443, 
         "category": {
-          "name": "operadora Tim", 
+          "name": "operadora Claro", 
           "id": 1, 
           "status": "ACTIVE", 
-          "sort_order": 2, 
-          "user_id": 2, 
+          "sort_order": 3, 
+          "user_id": 3, 
           "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
           "description": ""
         }
@@ -102,14 +102,14 @@
         "config_openvpn": "", 
         "proxy_hostname": "static.r4you.co", 
         "sort_order": 2, 
-        "id": 7, 
+        "id": 2, 
         "proxy_port": 443, 
         "category": {
-          "name": "Operadora Claro", 
-          "id": 210, 
+          "name": "Operadora Tim", 
+          "id": 2, 
           "status": "ACTIVE", 
-          "sort_order": 3, 
-          "user_id": 3, 
+          "sort_order": 2, 
+          "user_id": 2, 
           "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c", 
           "description": ""
         }
