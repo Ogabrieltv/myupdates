@@ -35,7 +35,7 @@
         "id": 4, 
         "proxy_port": 80, 
         "category": {
-          "name": "SSH", 
+          "name": "Operadoras", 
           "id": 2, 
           "status": "ACTIVE", 
           "sort_order": 2, 
@@ -105,7 +105,7 @@
         "id": 7, 
         "proxy_port": 443, 
         "category": {
-          "name": "SSH", 
+          "name": "Operadoras", 
           "id": 210, 
           "status": "ACTIVE", 
           "sort_order": 1, 
