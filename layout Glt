@@ -33,13 +33,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#25A785", 
+      "value": "#ff000000", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#ff0000", 
+      "value": "#25A785", 
       "id": 42, 
       "name": "icon_color"
     }, 
