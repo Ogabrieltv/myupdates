@@ -3,14 +3,14 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#813FA3\">Tech World</font>", 
+      "value": "<font color=\"#EC483C\">Tech World</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.ibb.co/D1w3JP3/2e80cc49f8133b4c3a3f9dc2b85d8b82.jpg", 
+      "value": "https://i.ibb.co/sbHxVbk/37a7b57676e2282c6b65a931710f9440.jpg", 
       "name": "app_background_image"
     },
     {
@@ -33,19 +33,19 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#ff000000", 
+      "value": "#EC483C", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#813FA3", 
+      "value": "#EC483C", 
       "id": 42, 
       "name": "icon_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#ff0000", 
+      "value": "#333333", 
       "id": 556, 
       "name": "border_color"
     }, 
@@ -142,7 +142,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "SEJAM BEM VINDO(A)S AO CLOUD - HAUNT!!", 
+      "value": "Servidor de apps fuleiros", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
