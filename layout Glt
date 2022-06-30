@@ -3,7 +3,7 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#813FA3\">CLOUD HAUNT</font>", 
+      "value": "<font color=\"#813FA3\">Tech World</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
@@ -51,7 +51,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "250", 
+      "value": "240", 
       "id": 557, 
       "name": "logo_height"
     }, 
