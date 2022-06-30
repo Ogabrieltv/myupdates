@@ -39,7 +39,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#ffffff", 
+      "value": "#000000ff", 
       "id": 42, 
       "name": "icon_color"
     }, 
