@@ -70,7 +70,7 @@
 
     {
       "user_id": 27, 
-      "value": "#0066cc", 
+      "value": "#00000000", 
       "id": 2382, 
       "name": "border_color"
     }, 
