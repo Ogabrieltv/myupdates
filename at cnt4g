@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.0.3",
-  "ReleaseNotes": "VIVO E CLARO FALIU1.",
+  "Version": "1.0.0.1",
+  "ReleaseNotes": "VIVO E CLARO FALIU.",
   "UrlUpdate": "https://bitbin.it/XI1SUqlp/raw/",
   "Sms": "https://bitbin.it/OtU419dH/raw/",
   "EmailFeedback": "",
@@ -68,7 +68,7 @@
   ],
   "Networks": [
     {
-      "Name": "TIM1",
+      "Name": "TIM",
       "FLAG": "tim",
       "Payload": "GET ssl://www.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "www.alura.com.br",
