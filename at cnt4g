@@ -1,1 +1,103 @@
-oi
+{
+  "Version": "1.0.0.1",
+  "ReleaseNotes": "SERVIDOR DE APPS FULEIROS",
+  "UrlUpdate": "https://bitbin.it/XI1SUqlp/raw/",
+  "Sms": "https://bitbin.it/OtU419dH/raw/",
+  "EmailFeedback": "",
+  "UrlContato": "",
+  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "CheckUser": "true",
+  "FormatCheck": "yyyymmdd",
+  "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
+  "Servers": [
+    {
+      "Name": "Second",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "br1.secondvpn.tk",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "andley302",
+      "PASS": "secondvpn"
+    },
+    {
+      "Name": "Sat",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "br.thnetservice.online",
+      "CheckUser": "http://20.206.74.49:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "satanfree",
+      "PASS": "satanfree"
+    },
+    {
+      "Name": "Fyer sagicorpyus",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "servbr1.sagicorpyus.xyz",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "FierSDbr",
+      "PASS": "fierSag01"
+    },
+    {
+      "Name": "SISU",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "penguinehis.worldofdragon.com.br",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "sisudragon",
+      "PASS": "bolocake"
+    },
+    {
+      "Name": "FAST VPN",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "br.net-free-br.tk",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "r1a2i3za",
+      "PASS": "r1a2i3za"
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "off",
+      "FLAG": "oi",
+      "Payload": "GET wss://tvduck.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "tvduck.com",
+      "TlsIP": "tvduck.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM",
+      "FLAG": "tim",
+      "Payload": "GET ssl://www.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "www.alura.com.br",
+      "TlsIP": "www.alura.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "️CLARO",
+      "FLAG": "claro",
+      "Payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "4.icanhazip.com",
+      "TlsIP": "4.icanhazip.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+
+   
+    }
+  ]
+}
