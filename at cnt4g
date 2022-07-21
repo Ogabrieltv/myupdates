@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.0.2",
-  "ReleaseNotes": "VIVO E CLARO FALIU.",
+  "Version": "1.0.0.3",
+  "ReleaseNotes": "VIVO E CLARO FALIU1.",
   "UrlUpdate": "https://bitbin.it/XI1SUqlp/raw/",
   "Sms": "https://bitbin.it/OtU419dH/raw/",
   "EmailFeedback": "",
@@ -68,15 +68,14 @@
   ],
   "Networks": [
     {
-      "Name": "TIM",
+      "Name": "TIM1",
       "FLAG": "tim",
       "Payload": "GET ssl://www.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: ws[crlf][crlf]",
       "SNI": "www.alura.com.br",
       "TlsIP": "www.alura.com.br",
       "ProxyIP": "",
       "ProxyPort": "443",
-      "Info": "Tlsws"
-   
+      "Info": "Tlsws"  
     }
   ]
 }
